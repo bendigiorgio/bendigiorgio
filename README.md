@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on 2 websites; a new portfolio website and a website integrating a Python API I have made, using Django.<br>I also speak Japanese natively and am working on translating my documentation/apps.<br>
+Live in Japan and currently working on multiple projects inlcuding one using OCR to create nameplated in Canva from photos and a new portfolio website.<br>
 
 
 ## 🌐 Socials:
