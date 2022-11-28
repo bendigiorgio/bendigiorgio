@@ -1,6 +1,6 @@
 # 💫 About Me:
 Live in Japan and currently working on multiple projects inlcuding one using OCR to create nameplates from photos and a new portfolio website.<br>
-日本に住んで、今、MLを使用し、メニューの写真から料理のネームプレートを作るプログラムや新しいポートフォリオのウェブサイトなどのプロジェクトを行っています。<br>
+日本に住んで、今MLを使用し、メニューの写真から料理のネームプレートを作るプログラムや新しいポートフォリオのウェブサイトなどのプロジェクトを行っています。<br>
 
 
 ## 🌐 Socials:
