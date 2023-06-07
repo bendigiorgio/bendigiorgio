@@ -1,6 +1,5 @@
 # 💫 About Me:
-Live in Japan and currently working on multiple projects inlcuding an interactive gallery (ThreeJs, FramerMotion) experience for my artwork and an eCommerce website (Nextjs, Redux, Firebase).<br>
-日本に住んで、今MLを使用し、メニューの写真から料理のネームプレートを作るプログラムや新しいポートフォリオのウェブサイトなどのプロジェクトを行っています。<br>
+Live in Japan and currently working on multiple projects inlcuding full stack web applications using Typescript and Next.js. I am also learning Rust.
 
 
 ## 🌐 Socials:
