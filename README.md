@@ -36,7 +36,4 @@ I'm currently diving deep into Rust and exploring how its concepts can be integr
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.bendigiorgio.com)
 [![Agency](https://img.shields.io/badge/My%20Agency-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.maisondigiorgio.com)
 
-## 🎉 Fun Fact
-I love photography and often go on photo walks to capture the beauty of Japan.
-
 [![](https://visitcount.itsvg.in/api?id=bendigiorgio&icon=0&color=0)](https://visitcount.itsvg.in)
