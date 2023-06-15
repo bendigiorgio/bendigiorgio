@@ -3,7 +3,7 @@
 I'm a full-stack developer currently living in Japan, working on multiple projects including full-stack web applications using TypeScript and Next.js. I'm also learning Rust and integrating its concepts into my TypeScript work.
 
 ## 🚀 About Me
-I'm passionate about web development and love to learn new technologies. I'm currently focusing on enhancing my skills in Rust and integrating its concepts into my TypeScript work. When I'm not coding, you can find me exploring the beautiful landscapes of Japan.
+I'm passionate about web development and love to learn new technologies. I'm currently focusing on enhancing my skills in Rust and integrating its concepts into my TypeScript work. When I'm not coding, you can find me playing tennis or listening to music.
 
 
 ## 🛠️ Tech Stack
