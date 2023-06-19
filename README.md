@@ -40,6 +40,8 @@ I'm currently diving deep into Rust and exploring how its concepts can be integr
 
 **[Shukkin Shift Manager](https://www.shukkin.com/)** - A simple, no frills shift managment solution for small businesses.
 
+**[Masison Components](https://github.com/bendigiorgio/maison-components)** -  A UI component library for React and Next.js. Based on Radix UI, made with Typescript, Tailwind CSS. Still a __work in progress__.
+
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bendigiorgio) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.bendigiorgio.com)
