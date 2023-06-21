@@ -35,12 +35,14 @@ Other        21 mins         ▒░░░░░░░░░░░░░░░░
 I'm currently diving deep into Rust and exploring how its concepts can be integrated into TypeScript. I'm particularly interested in it's rich type system and really getting the getting the most out of a lower level language.
 
 ## 🌟 Featured Project
+
+**[Masison Components](https://maison-components-docs.vercel.app/)** -  A UI component library for React and Next.js. Based on Radix UI, made with Typescript, Tailwind CSS. Still a __work in progress__.
+
 **[Color Palette Generator](https://github.com/bendigiorgio/image-to-palette-rust)** - An API I'm developing in Rust which can generate a color palette from the dominant colors of an image.
 ![Example Output](https://github.com/bendigiorgio/image-to-palette-rust/blob/master/output.png?raw=true)
 
 **[Shukkin Shift Manager](https://www.shukkin.com/)** - A simple, no frills shift managment solution for small businesses.
 
-**[Masison Components](https://github.com/bendigiorgio/maison-components)** -  A UI component library for React and Next.js. Based on Radix UI, made with Typescript, Tailwind CSS. Still a __work in progress__.
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bendigiorgio) 
