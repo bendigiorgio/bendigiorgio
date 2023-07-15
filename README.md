@@ -22,11 +22,11 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 7 mins   ██████████████████████░░░   88.64 %
-JSON         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TypeScript   13 hrs 8 mins   ███████████████████████░░   92.58 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
