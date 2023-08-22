@@ -36,7 +36,7 @@ I'm currently diving deep into Rust and exploring how its concepts can be integr
 
 ## 🌟 Featured Project
 
-**[Masison Components](https://bendigiorgio.github.io/maison-components)** -  A UI component library for React and Next.js. Based on Radix UI, made with Typescript, Tailwind CSS. Still a __work in progress__.
+**[Kiso UI](https://kiso-ui.vercel.app)** -  A UI component library for React and Next.js. Based on Radix UI, made with Typescript, Tailwind CSS. Still a __work in progress__.
 
 **[Color Palette Generator](https://github.com/bendigiorgio/image-to-palette-rust)** - An API I'm developing in Rust which can generate a color palette from the dominant colors of an image.
 ![Example Output](https://github.com/bendigiorgio/image-to-palette-rust/blob/master/output.png?raw=true)
