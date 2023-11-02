@@ -22,11 +22,11 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   1 hr 40 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
-YAML                       1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-TypeScript                 1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-Docker                     1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Git Config                 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+TypeScript                 57 mins         █████████▓░░░░░░░░░░░░░░░   38.86 %
+Nginx configuration file   36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+YAML                       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Docker                     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Bash                       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 ```
 
 <!--END_SECTION:waka-->
