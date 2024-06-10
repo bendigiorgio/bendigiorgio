@@ -22,9 +22,8 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        50 mins         █████████████▓░░░░░░░░░░░   54.46 %
-TypeScript   41 mins         ███████████░░░░░░░░░░░░░░   44.42 %
-GLSL         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript   1 hr 17 mins    ███████████████░░░░░░░░░░   60.51 %
+Astro        50 mins         ██████████░░░░░░░░░░░░░░░   39.49 %
 ```
 
 <!--END_SECTION:waka-->
