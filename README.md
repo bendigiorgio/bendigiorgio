@@ -22,11 +22,11 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        1 hr 35 mins    ████████████░░░░░░░░░░░░░   48.58 %
-TypeScript   1 hr 31 mins    ███████████▓░░░░░░░░░░░░░   46.39 %
-GLSL         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TypeScript   4 hrs 14 mins   █████████████████████▓░░░   86.84 %
+Astro        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
