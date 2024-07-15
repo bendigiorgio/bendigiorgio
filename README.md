@@ -22,7 +22,7 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 23 mins    █████████████████████████   100.00 %
+TypeScript   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
