@@ -22,11 +22,11 @@ I'm passionate about web development and love to learn new technologies. I'm cur
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 42 mins    ████████████░░░░░░░░░░░░░   47.66 %
-Svelte       52 mins         ██████░░░░░░░░░░░░░░░░░░░   24.20 %
-TypeScript   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-CSS          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JavaScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Svelte       52 mins         █████████████████▓░░░░░░░   70.35 %
+Go           9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+CSS          9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
